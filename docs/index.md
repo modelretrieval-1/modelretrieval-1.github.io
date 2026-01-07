@@ -8,6 +8,10 @@ Advances in AI have led to a proliferation of pre-trained machine learning model
 
 This task defines a benchmark for **efficiently retrieving the pre-trained model that best matches a user's problem**, reducing selection overhead and accelerating downstream deployment.
 
+Ready to participate? Start by registering:
+
+[Register for NTCIR-19](https://research.nii.ac.jp/ntcir/ntcir-19/howto.html){: .md-button .md-button--primary }
+
 ## Motivation
 
 Practitioners currently navigate a vast space of models using manual trial-and-error, which incurs high computational and labor costs. This task aims to:

@@ -4,6 +4,8 @@
 
 The tentative schedule for NTCIR-19 ModelRetrieval is as follows:
 
+Registration is required before submissions; complete it on the NTCIR-19 site [here](https://research.nii.ac.jp/ntcir/ntcir-19/howto.html).
+
 | Date              | Event                                                   |
 | :---------------- | :------------------------------------------------------ |
 | **January 2026**  | Data release for both subtasks                          |

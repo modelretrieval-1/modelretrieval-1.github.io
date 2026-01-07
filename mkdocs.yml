@@ -81,6 +81,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Register: https://research.nii.ac.jp/ntcir/ntcir-19/howto.html
   - Task Definition: tasks.md
   - Dataset & Resources: data.md
   - Schedule: schedule.md
