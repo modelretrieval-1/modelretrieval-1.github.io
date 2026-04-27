@@ -37,15 +37,15 @@ mkdocs build
 
 Deployment
 
-- This repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml` which runs `mkdocs build` and deploys the generated `site/` directory to the `gh-pages` branch on pushes to `main`.
+- This repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml` which runs `mkdocs build` and deploys the generated `site/` directory to the `gh-pages` branch on pushes to `master`.
 - To publish manually: run `mkdocs gh-deploy` after installing `mkdocs` and `mkdocs-material`.
 
 Repository layout
 
 - `docs/` — Markdown source for the site (canonical).
 - `docs/assets/images/` — images used by the docs.
-- `stylesheets/extra.css` — custom CSS referenced by `mkdocs.yml`.
-- `javascripts/mathjax.js` — mathjax config used for math support.
+- `docs/stylesheets/extra.css` — custom CSS referenced by `mkdocs.yml`.
+- `docs/javascripts/mathjax.js` — mathjax config used for math support.
 - `.github/workflows/deploy.yml` — CI workflow that builds/deploys the site.
 
 Contributing
