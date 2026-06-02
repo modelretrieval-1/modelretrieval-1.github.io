@@ -42,6 +42,7 @@ extra_javascript:
   - javascripts/mathjax.js
   # - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/faq-filter.js
 
 # Markdown拡張機能（エラーが出る箇所を標準的な記述に変更）
 markdown_extensions:
@@ -81,6 +82,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - FAQ: faq.md
   - Register: https://research.nii.ac.jp/ntcir/ntcir-19/howto.html
   - Task Definition: tasks.md
   - Dataset & Resources: data.md

@@ -2,11 +2,12 @@
 
 If you have any questions, please contact the organizers.
 
-- **Huu-Long Pham** (University of Hyogo) - `huulongpham28@gmail.com`
+Email: `modelretrieval1-organizers[@]googlegroups.com`
+
+- **Huu-Long Pham** (University of Tsukuba)
 - **Ryota Mibayashi** (Kobe University)
 - **Yoshiyuki Shoji** (Shizuoka University)
-- **Makoto P. Kato** (Tsukuba University)
+- **Makoto P. Kato** (University of Tsukuba)
 - **Takehiro Yamamoto** (University of Hyogo)
 - **Yusuke Yamamoto** (Nagoya City University)
 - **Hiroaki Ohshima** (University of Hyogo)
-

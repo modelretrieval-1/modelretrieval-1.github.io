@@ -1,5 +1,10 @@
 # NTCIR-19 ModelRetrieval
 
+<div class="faq-hero">
+	<a href="faq" class="md-button md-button--primary">View FAQ</a>
+	<p style="margin:0">Have questions? See FAQs about dataset, submission, and evaluation.</p>
+</div>
+
 ![NTCIR-19 ModelRetrieval Task Overview](assets/images/hero_flat.png)
 
 **Pre-trained Model Retrieval Task**
